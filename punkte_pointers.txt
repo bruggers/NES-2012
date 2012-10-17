@@ -10,5 +10,3 @@ punkte:
 4) byzantinischen node
 
 5) rsa (security-attacke)
-
-
