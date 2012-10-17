@@ -1,0 +1,22 @@
+write a project:
+------------------------
+
+write why you want to do that
+want to get money from customer...
+
+idea of project -> why is this project important
+
+timeplan
+gantt-diagramm
+...
+
+
+
+later on:
+design, specification (stackholder view, usecases), 
+hw-architecture, component-architecture
+
+waterfal-process -> planning, implementation, validation, deployment
+
+
+keypoint ==> documentation of whole project

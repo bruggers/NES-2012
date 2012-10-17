@@ -1,0 +1,14 @@
+punkte:
+-----------------------------------------------
+
+1) node-synchronisation: uhr oder sinussignal --> time lag auf display darstellen
+
+2) mp3 oder mikrophon --> display als oszilloskop
+
+3) wlan (jürgen nachfragen wie schwierig das ist)
+
+4) byzantinischen node
+
+5) rsa (security-attacke)
+
+
