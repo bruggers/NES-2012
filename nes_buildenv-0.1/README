@@ -1,0 +1,25 @@
+
+
+HOW TO USE
+----------
+Copy one of the templates (blinking_leds or ttpa_example) and insert your code there.
+The library directory can be used to collect drivers in a central location.
+
+MAKE TARGETS
+------------
+make             build all nodes
+make flash_all   flash all nodes (order defined in project.mk)
+make clean       remove intermediary products from all directories
+make distclean   remove all products from all directories 
+
+
+DIRECTORIES
+-----------
+blinking_leds ...... TTP/A Example
+i686linux .......... TTP/A Bus Analyzer
+library ............ Put your drivers here
+template1 .......... Template for Example 2 (no TTP/A)
+template2 .......... Template for Example 3 (with TTP/A)
+ttpa_example ....... Another TTP/A Example
+
+

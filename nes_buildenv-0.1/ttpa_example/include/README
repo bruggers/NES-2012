@@ -1,0 +1,5 @@
+Put application global(=> headers you need in more than one node) include files into this directory. The buildsystem supports that you just inlude them by
+
+> #include "your_global_header.h"
+
+without the need to put any directory structure before the file. Look into the global Makefile (one directory level up) to see how this is done.

@@ -1,0 +1,30 @@
+CHANGES
+
+20121220 - bf
+- 'ported' to new NES hw (incl. TTP/A) Thanks Kyrill Winkler and Florian Bartl for assistance!
+
+20101111 - aw
+- finalized environent
+
+20101110 - tm
+- removed warnings from TTPA
+
+20080909 - bf
+- removed parameter -e from all echos to improve compatibility
+
+
+20080115 - bf
+- added Gernot Klingler's ttpasignal utility: see ttpa_signal project. Matching i686 tools (ttpasignalclient and ttpasignalserver) have been included in i686linux. Set  TTPA_MONITOR_ENABLED = 2 (master/makefile.mk) to compile in ttpasignal objects. Setting TTPA_MONITOR_ENABLED = 1 (master/makefile.ml) selects the old monitoring tool whereas setting it to 0 disables any monitoring and leaves UART1 free.
+
+
+20071127 - bf
+- whitespaces in project paths are fatal [resolved]
+- modules removed prior calling 'make cleandep' are not detected as removed
+  properly [resolved]
+- node3.h: wrong pin assignments for sensors (PF instead of PE) [resolved]
+- Mac OSX incompatibility concerning `find ./` [resolved]
+- module and module mdep specific CFLAGS added to module makefile fragments [resolved]
+- added a test module to eselib which uses a local (node specific) CFLAG
+  (see template/node0/makefile.mk) [new]
+- usage of tabs in makefile fragments (makefile.mk files) leads to errors [unresolveable: use spaces instead of tabs]
+

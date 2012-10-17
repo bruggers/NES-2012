@@ -1,0 +1,1 @@
+This is a small ttpa-example with two nodes. A counter is increased in node0 and written to the IFS. Node1 reads this counter and puts it out on the bargraph. For more information on this example, refer to the ESELU-Tutorial.

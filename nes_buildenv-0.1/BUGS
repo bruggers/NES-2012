@@ -1,0 +1,7 @@
+BUGS
+
+- ttpa linking will fail on recent avr gnu linker versions. Use an older (pre 2008) one for now (avr-binutils package). [RESOLVED should work on avrlibc 1.4.7 anc avrgcc 4.0.2]
+
+- none other known currently :)
+
+Please report bugs to: Bernhard Froemel <froemel@vmars.tuwien.ac.at>
