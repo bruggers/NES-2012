@@ -17,5 +17,4 @@ hw-architecture, component-architecture
 
 waterfal-process -> planning, implementation, validation, deployment
 
-
 keypoint ==> documentation of whole project
