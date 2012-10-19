@@ -11,6 +11,7 @@ gantt-diagramm
 ...
 
 
+
 later on:
 design, specification (stackholder view, usecases), 
 hw-architecture, component-architecture
