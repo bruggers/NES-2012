@@ -5,8 +5,21 @@ punkte:
 
 2) mp3 oder mikrophon --> display als oszilloskop
 
-3) wlan (jürgen nachfragen wie schwierig das ist)
+3) wlan (jï¿½rgen nachfragen wie schwierig das ist)
 
 4) byzantinischen node
 
 5) rsa (security-attacke)
+
+
+
+
+VorschlÃ¤ge von LVA-Leitung:
+1.) Code Mobility (Virtual Machine)
+2.) Temporal Logic (Transducer)
+3.) Synchronistion (zB Smooth from Biology)
+
+
+Dokumente vom letzten Jahr:
+Spezification ~ 6 Seiten
+Final Docu ~ 40 Seiten
